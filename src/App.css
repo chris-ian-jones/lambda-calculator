@@ -4,15 +4,32 @@
   width: 500px;
   display: flex;
   flex-direction: column;
+  justify-content: space-evenly;
 }
 
+.display {
+  background-color: darkslategray;
+  width: 400px;
+  height: 100px;
+  border-radius: 25%;
+  align-self: center;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-size: 3rem;
+  color: white;
+}
 .numbers-container {
   width: 400px;
 }
+
 button {
     height: 100px;
     width: 100px;
     border-radius: 50%;
+    font-size: 3rem;
+    color: white;
+    background-color: midnightblue;
   }
 
 
