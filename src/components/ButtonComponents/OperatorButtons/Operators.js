@@ -1,11 +1,13 @@
-import React from "react";
+import React, {useState} from "react";
 
 //import any components needed
 
+import OperatorButton from './OperatorButton.js'
+
 //Import your array data to from the provided data file
 
-import { numbers } from '../../../data'
-
+import { operators } from '../../../data'
+console.log(operators)
 const Operators = () => {
   // STEP 2 - add the imported data to state
   return (

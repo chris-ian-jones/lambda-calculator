@@ -36,3 +36,5 @@ const specials = ["C", "+/-", "%"];
 // export default numbers
 
 export { numbers }
+export { operators }
+export { specials }
