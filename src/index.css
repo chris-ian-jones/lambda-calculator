@@ -11,15 +11,3 @@ code {
     monospace;
 }
 
-#root {
-  height: 1000px;
-  width: 500px;
-  display: flex;
-  flex-direction: column;
-}
-
-button {
-  height: 100px;
-  width: 100px;
-  border-radius: 50%;
-}

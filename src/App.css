@@ -1,0 +1,19 @@
+.container {
+  background-color: crimson;
+  height: 800px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+}
+
+.numbers-container {
+  width: 400px;
+}
+button {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+  }
+
+
+  
