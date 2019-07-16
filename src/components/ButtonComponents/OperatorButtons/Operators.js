@@ -7,7 +7,7 @@ import OperatorButton from './OperatorButton.js'
 //Import your array data to from the provided data file
 
 import { operators } from '../../../data'
-console.log(operators)
+// console.log(operators)
 // {CharacterData, value} = operators
 const Operators = () => {
   // STEP 2 - add the imported data to state
